@@ -1,0 +1,14 @@
+
+{
+  "name": "the-atlantis-blog-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Telegram bot for The Atlantis Blog",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
